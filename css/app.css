@@ -428,7 +428,7 @@ canvas#canvas {
     font-family: 'Gotham Pro';
     font-style: normal;
     font-weight: 700;
-    font-size: 42px;
+    font-size: 32px;
     line-height: 125%;
     text-align: center;
     text-transform: uppercase;
@@ -452,11 +452,12 @@ canvas#canvas {
     font-family: 'Gotham Pro';
     font-style: normal;
     font-weight: 700;
-    font-size: 28px;
+    font-size: 22px;
     line-height: 125%;
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
+    margin-top: 10px;
     text-shadow: 0px 0px 53.8251px rgba(255, 41, 41, 0.4), 0px 4px 0px rgba(0, 0, 0, 0.7);
 }
 
@@ -465,7 +466,7 @@ canvas#canvas {
     font-style: normal;
     margin-top: 10px;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 22px;
     line-height: 125%;
     text-align: center;
     text-transform: uppercase;
